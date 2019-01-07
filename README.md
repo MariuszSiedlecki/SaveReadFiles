@@ -1,5 +1,5 @@
 Task 1.
-Mając nieuporządkowaną listę zakupów:
+Mając nieuporządkowaną listę zakupów wpostaci pliku.txt:
 Bułki:5:3.20
 Msało:1:5
 smietana:2:2.35
