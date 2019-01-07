@@ -29,7 +29,7 @@ public class SaveReadFile {
             for (Products product: prodactList){
                  valueShopping += product.getQuantiti()*product.getPrice();
         }
-        System.out.println(valueShopping);
+        System.out.println("the purchase cost is: " + valueShopping + " zł ");
     }
 }
 
