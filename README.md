@@ -5,4 +5,4 @@ Msało:1:5
 smietana:2:2.35
 woda:5:6.25
 Ciastka:1:2.20
-Nastepnie odczytaj ile wyniosła wartość wszystkich zakupów.
+Nastepnie wydrukuj całą listę w konsoli i odczytaj ile wyniosła wartość wszystkich zakupów.
